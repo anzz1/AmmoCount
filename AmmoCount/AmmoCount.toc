@@ -1,0 +1,7 @@
+## Interface: 11307
+## Version: 1.0.2
+## Title: AmmoCount
+## Notes: Displays the ammo count on action buttons.
+## Author: kebabstorm
+
+main.lua
