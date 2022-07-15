@@ -1,4 +1,6 @@
-## Interface: 11307
+## Interface: 11403
+## X-Min-Interface-Classic: 11403
+## X-Min-Interface-BCC: 20504
 ## Version: 1.0.2
 ## Title: AmmoCount
 ## Notes: Displays the ammo count on action buttons.
